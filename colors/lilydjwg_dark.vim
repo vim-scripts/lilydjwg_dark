@@ -16,7 +16,7 @@ hi Comment guifg=#686868
 hi Constant guifg=#10a303
 hi Cursor guifg=#FF66FF guibg=#00AAFF
 hi CursorIM gui=None
-hi CursorLine guibg=#555555
+hi CursorLine guibg=#333333
 hi DiffAdd guifg=#000000 guibg=#6666CC
 hi DiffChange guifg=#000000 guibg=darkgreen
 hi DiffDelete gui=bold guifg=#000000 guibg=coral
@@ -25,7 +25,7 @@ hi Directory guifg=#ff99ff
 hi Error gui=underline guifg=red guibg=#111133
 hi ErrorMsg guifg=#FFFF00 guibg=#0000FF
 hi FoldColumn guifg=#0033FF guibg=#333333
-hi Folded guifg=#9933FF guibg=#3D3D3D
+hi Folded guifg=#9933FF guibg=#333333
 hi Identifier guifg=#986CFF guibg=#2d222d
 hi Ignore gui=None
 hi IncSearch gui=bold,reverse guifg=#33ff1c guibg=#3454ff
@@ -52,9 +52,9 @@ hi SpellRare gui=undercurl
 hi Statement gui=bold guifg=#d86868 guibg=#2d2222
 hi StatusLine gui=reverse guifg=#00c4ff guibg=#000000
 hi StatusLineNC guifg=#A4A4FF guibg=#444400
-hi TabLine guifg=#999944 guibg=#112233
+hi TabLine guifg=#0066FF guibg=#001133
 hi TabLineFill gui=none
-hi TabLineSel gui=underline guifg=#0066FF guibg=#001133
+hi TabLineSel gui=underline guifg=#999944 guibg=#112233
 hi Title guifg=#ffff44 guibg=#2F2F2F
 hi Todo gui=bold,underline guifg=#FF4444 guibg=#333300
 hi Type guifg=#FFA500 guibg=#2d2211
